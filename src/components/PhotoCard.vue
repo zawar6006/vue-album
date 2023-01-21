@@ -16,7 +16,7 @@
   </div>
 </template>
 <script setup>
-import LikeorSad from "./LikeOrSad.vue";
+import LikeorSad from "./LikeorSad.vue";
 defineProps({
   image: String,
 });
